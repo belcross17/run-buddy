@@ -211,7 +211,7 @@ section {
     text-align: center;
 }
 
-.trainer, .trainer-2 {
+.trainer {
     width: 900px;
     margin: 0 auto 30px auto;
     background: #024e76;
@@ -230,17 +230,6 @@ section {
     width: 65%;
 }
 
-.trainer-2 img {
-    width: 35%;
-    float: right;
-}
-
-.trainer-bio-2 {
-    padding: 35px;
-    float: right;
-    width: 65%;
-}
-
 .text-left {
     text-align: left;
 }
@@ -249,18 +238,18 @@ section {
     text-align: right;
 }
 
-.trainer-bio h3, .trainer-bio-2 h3 {
+.trainer-bio h3 {
     font-size: 32px;
     margin-bottom: 8px;
 }
 
-.trainer-bio h4, .trainer-bio-2 h4 {
+.trainer-bio h4 {
     font-weight: lighter;
     font-size: 26px;
     margin-bottom: 25px;
 }
 
-.trainer-bio p, .trainer-bio-2 p {
+.trainer-bio p {
     font-size: 17px;
     line-height: 1.3;
 }
